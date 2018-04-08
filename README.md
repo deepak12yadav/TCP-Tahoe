@@ -17,4 +17,4 @@ init_tranport_layer(string port)
 appSend(char*data,int length,char* DIP,char* Dport)
 appRecv(char*data,int length,char* DIP,char* Dport)
 
-# Note: Plesae refer design_of_transport_wrapper.pdf for design details 
+# Note: Plesae refer design_of_transport_wrapper.pptx for design details 
